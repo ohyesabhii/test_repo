@@ -15,11 +15,11 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2019-12-12T09:08:51.566Z"
+         lastModifiedDate="2019-12-12T10:08:10.736Z"
          name="ITC_GitThing"
          projectName="ITC_GitHub"
          published="false"
-         tags="Applications:GitBackup"
+         tags=""
          thingTemplate="GitBackupTemplate"
          valueStream="">
             <avatar></avatar>

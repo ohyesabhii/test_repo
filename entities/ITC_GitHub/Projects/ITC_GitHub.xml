@@ -10,14 +10,14 @@
     <Projects>
         <Project
          dependsOn=""
-         description="Project for ThingWorx and Github "
+         description="Project for ThingWorx and Github"
          documentationContent=""
          homeMashup=""
-         lastModifiedDate="2019-12-12T08:54:00.763Z"
+         lastModifiedDate="2019-12-12T10:06:16.388Z"
          name="ITC_GitHub"
          packageVersion="1.0.0"
          projectName="ITC_GitHub"
-         tags="Applications:GitBackup">
+         tags="">
             <avatar></avatar>
             <DesignTimePermissions>
                 <Create></Create>
